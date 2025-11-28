@@ -1,7 +1,7 @@
 # FreeCodeCamp JavaScript Certification
 
 I am currently pursuing the **FreeCodeCamp JavaScript Certification**.  
-This repository contains my exercises, projects, and functions as I progress through the course.
+This repository contains my exercises, projects, labs and workshops as I progress through the course.
 
 ## 🏆 Certification Progress
 
