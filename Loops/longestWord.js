@@ -12,6 +12,10 @@ function findLongestWordLength(str) {
   return longest;
 }
 
-findLongestWordLength("The quick brown fox jumped over the lazy dog");
+const a = findLongestWordLength("The quick brown fox jumped over the lazy dog");
+console.log(a);
 
-findLongestWordLength("I am thankful to God because he has given me the most loving perosn");
+const b = findLongestWordLength(
+  "I am thankful to God because he has given me the most loving perosn"
+);
+console.log(b);
